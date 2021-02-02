@@ -9,4 +9,19 @@
     img{
         width: 100%;
     }
-    @media all 
+    /* @media all and (max-width:500px){ 
+body{
+    color: white;
+    
+    background-color: black;
+}
+span{
+    color: white;
+    background: black;
+}
+.title{
+    background: black;
+}
+
+    }
+    */
