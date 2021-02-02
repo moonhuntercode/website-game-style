@@ -8,6 +8,7 @@
     }
     img{
         width: 100%;
+        color: #000000;
     }
     /* @media all and (max-width:500px){ 
 body{
@@ -19,9 +20,12 @@ span{
     color: white;
     background: black;
 }
-.title{
-    background: black;
+.nes-container , .with-title , .title{
+    background-color:#212529;
+     padding: 1rem 0; 
+     color: white;
+
 }
 
-    }
-    */
+    } */
+    
